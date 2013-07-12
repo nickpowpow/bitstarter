@@ -1,1 +1,1 @@
-This is a test readme.
+This is the bitstarter readme for startup class homework 3. Ya mon.
